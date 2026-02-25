@@ -27,8 +27,8 @@ I'm a B.Tech Computer Science student deeply passionate about Artificial Intelli
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Akshat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatPal2007&show_icons=true&theme=radical&hide_border=true" alt="Akshat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatPal2007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect!
